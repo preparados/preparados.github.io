@@ -40,8 +40,10 @@
   {
    "fecha": "2026-11-10",
    "accion": "publicador",
-   "resultado": "Publicado https://preparados.github.io/kit-emergencia-casa-72-horas.html",
-   "errores": []
+   "resultado": "Web generada en /docs y commit hecho; push a GitHub rechazado (403: la app de GitHub de Claude no tiene acceso al repositorio). Pendiente de subir.",
+   "errores": [
+    "git push 403"
+   ]
   },
   {
    "fecha": "2026-11-10",
