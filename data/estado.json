@@ -50,6 +50,12 @@
    "accion": "analista",
    "resultado": "No ejecutado: hoy es martes.",
    "errores": []
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "publicador",
+   "resultado": "Acceso a GitHub resuelto; cambios subidos a main y publicados en https://preparados.github.io/kit-emergencia-casa-72-horas.html",
+   "errores": []
   }
  ]
 }
