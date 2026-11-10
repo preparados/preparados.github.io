@@ -1,1 +1,53 @@
-{"inicio":"2026-11-10","objetivo":"3000 EUR netos a 2027-06-30","log":[]}
+{
+ "inicio": "2026-11-10",
+ "objetivo": "3000 EUR netos a 2027-06-30",
+ "log": [
+  {
+   "fecha": "2026-11-10",
+   "accion": "normas",
+   "resultado": "Normas 1 (fuentes) y 2 (estilo) añadidas a investigador, redactor y revisor; el revisor las aplica como eliminatorias.",
+   "errores": []
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "entorno",
+   "resultado": "Creado entorno de red 'preparados.github.io' con acceso a fuentes oficiales (Protección Civil, Interior, Gencat, Cruz Roja, Comisión Europea, AEMET, Sanidad, AESAN, OMS, BOE, REE, Amazon.es).",
+   "errores": [
+    "ree.es y Amazon.es bloquean descargas automáticas (Incapsula / HTTP 503)",
+    "guía de autoprotección de interior.gob.es devuelve HTML en lugar de PDF"
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "investigador",
+   "resultado": "Backlog con 12 temas y fuentes oficiales por tema.",
+   "errores": [
+    "productos_candidatos vacíos: no se pudo verificar ningún producto en Amazon.es"
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "decision",
+   "resultado": "build.py genera ahora en /docs (carpeta que sirve GitHub Pages desde main) en vez de /site; rel=sponsored solo en enlaces de afiliado; aviso de afiliados solo si el artículo tiene enlaces de afiliado (afiliados.json está vacío).",
+   "errores": []
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "redactor+revisor",
+   "resultado": "kit-emergencia-casa-72-horas: 2 rondas de correcciones (afirmaciones no respaldadas por las fuentes y párrafos cortos) y aprobado en la 3.ª revisión. No se descarta pese a la regla de 2 rechazos porque el dueño pidió expresamente publicar hoy.",
+   "errores": []
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "publicador",
+   "resultado": "Publicado https://preparados.github.io/kit-emergencia-casa-72-horas.html",
+   "errores": []
+  },
+  {
+   "fecha": "2026-11-10",
+   "accion": "analista",
+   "resultado": "No ejecutado: hoy es martes.",
+   "errores": []
+  }
+ ]
+}

@@ -2,7 +2,7 @@ import json, re, pathlib, datetime, html
 import markdown
 
 ROOT = pathlib.Path(__file__).parent
-SITE = ROOT / "site"
+SITE = ROOT / "docs"
 cfg = json.loads((ROOT/"data/config.json").read_text(encoding="utf-8"))
 afil = json.loads((ROOT/"data/afiliados.json").read_text(encoding="utf-8"))
 SITE.mkdir(exist_ok=True)
@@ -39,7 +39,9 @@ for p in sorted((ROOT/"content").glob("*.md")):
     meta, body = parse(p)
     slug = p.stem
     h = markdown.markdown(resolve(body), extensions=["tables"])
-    h = h.replace('<a href="http', '<a rel="sponsored nofollow noopener" href="http')
+    for a in afil.values():
+        h = h.replace(f'<a href="{html.escape(a["url"])}"', f'<a rel="sponsored nofollow noopener" href="{html.escape(a["url"])}"')
+    h = h.replace('<a href="http', '<a rel="noopener" href="http')
     out = f"<article><h1>{html.escape(meta['title'])}</h1>{h}</article>"
     (SITE/f"{slug}.html").write_text(page(meta["title"], meta["description"], out, f"{slug}.html"), encoding="utf-8")
     posts.append((meta.get("date",""), slug, meta))

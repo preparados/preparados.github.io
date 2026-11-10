@@ -1,1 +1,207 @@
-[]
+[
+ {
+  "id": "kit-emergencia-casa-72-horas",
+  "titulo": "Kit de emergencia en casa: qué incluir para 72 horas",
+  "tipo": "guia",
+  "palabras_clave": [
+   "kit de emergencia",
+   "kit 72 horas",
+   "qué meter en un kit de emergencia"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 5,
+  "estado": "publicado",
+  "fuentes": [
+   "https://ficheros.proteccioncivil.es/unidadesFormativas/Plan_Familiar_Emergencias_Creacion_propia_UnidadPsicologiaDGPCYE.pdf",
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html",
+   "https://www2.cruzroja.es/documents/5640665/3292747578/3.+Checklist+kit+-+Cruz+Roja.pdf/d3788ba7-50a9-6936-175a-02d55fc20423?t=1752739759515",
+   "https://www2.cruzroja.es/preparacionantedesastres",
+   "https://commission.europa.eu/topics/preparedness_es"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "que-hacer-en-un-apagon-en-casa",
+  "titulo": "Qué hacer en casa durante un apagón",
+  "tipo": "guia",
+  "palabras_clave": [
+   "qué hacer en un apagón",
+   "apagón en casa"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 5,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://ficheros.proteccioncivil.es/unidadesFormativas/Plan_Familiar_Emergencias_Creacion_propia_UnidadPsicologiaDGPCYE.pdf",
+   "https://www2.cruzroja.es/preparacionantedesastres"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "cuanta-agua-guardar-para-emergencias",
+  "titulo": "Cuánta agua guardar en casa para una emergencia",
+  "tipo": "guia",
+  "palabras_clave": [
+   "agua para emergencias",
+   "cuánta agua almacenar"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 5,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html",
+   "https://www2.cruzroja.es/documents/5640665/3292747578/3.+Checklist+kit+-+Cruz+Roja.pdf/d3788ba7-50a9-6936-175a-02d55fc20423?t=1752739759515"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "radio-de-pilas-o-manivela",
+  "titulo": "Radio de pilas o de manivela: cuál elegir para emergencias",
+  "tipo": "comparativa",
+  "palabras_clave": [
+   "radio de manivela",
+   "radio a pilas emergencia"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 4,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://www2.cruzroja.es/preparacionantedesastres",
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "plan-familiar-de-emergencias",
+  "titulo": "Cómo hacer un plan familiar de emergencias",
+  "tipo": "guia",
+  "palabras_clave": [
+   "plan familiar de emergencias",
+   "plan de emergencia en casa"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 4,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://ficheros.proteccioncivil.es/unidadesFormativas/Plan_Familiar_Emergencias_Creacion_propia_UnidadPsicologiaDGPCYE.pdf",
+   "https://www2.cruzroja.es/preparacionantedesastres"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "es-alert-como-funciona",
+  "titulo": "ES-Alert: cómo funcionan los avisos al móvil",
+  "tipo": "guia",
+  "palabras_clave": [
+   "es-alert",
+   "alerta móvil protección civil"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 4,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://www2.cruzroja.es/preparacionantedesastres"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "alimentos-sin-cocinar-para-emergencias",
+  "titulo": "Alimentos que no necesitan cocina para una emergencia",
+  "tipo": "lista",
+  "palabras_clave": [
+   "comida de emergencia",
+   "alimentos larga duración"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 4,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html",
+   "https://www2.cruzroja.es/documents/5640665/3292747578/3.+Checklist+kit+-+Cruz+Roja.pdf/d3788ba7-50a9-6936-175a-02d55fc20423?t=1752739759515"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "botiquin-del-kit-de-emergencia",
+  "titulo": "Botiquín para el kit de emergencia: qué llevar",
+  "tipo": "lista",
+  "palabras_clave": [
+   "botiquín emergencia",
+   "botiquín casa"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 3,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://www2.cruzroja.es/documents/5640665/3292747578/3.+Checklist+kit+-+Cruz+Roja.pdf/d3788ba7-50a9-6936-175a-02d55fc20423?t=1752739759515"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "kit-de-emergencia-para-el-coche",
+  "titulo": "Kit de emergencia para el coche en invierno",
+  "tipo": "lista",
+  "palabras_clave": [
+   "kit emergencia coche",
+   "baliza v16"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 3,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "mascotas-en-una-emergencia",
+  "titulo": "Cómo preparar a tu mascota para una emergencia",
+  "tipo": "guia",
+  "palabras_clave": [
+   "mascotas emergencia",
+   "kit emergencia mascotas"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 3,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html",
+   "https://www2.cruzroja.es/preparacionantedesastres"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "linterna-o-frontal-para-emergencias",
+  "titulo": "Linterna o frontal: qué conviene tener en casa",
+  "tipo": "comparativa",
+  "palabras_clave": [
+   "linterna frontal",
+   "linterna emergencia"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 3,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html",
+   "https://www2.cruzroja.es/documents/5640665/3292747578/3.+Checklist+kit+-+Cruz+Roja.pdf/d3788ba7-50a9-6936-175a-02d55fc20423?t=1752739759515"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ },
+ {
+  "id": "bateria-externa-para-emergencias",
+  "titulo": "Batería externa para emergencias: cómo elegirla",
+  "tipo": "comparativa",
+  "palabras_clave": [
+   "powerbank emergencia",
+   "batería externa"
+  ],
+  "productos_candidatos": [],
+  "prioridad": 3,
+  "estado": "pendiente",
+  "fuentes": [
+   "https://interior.gencat.cat/es/arees_dactuacio/proteccio_civil/consells_autoproteccio_emergencia/preparat_per_les_emergencies/equip_emergencies/index.html",
+   "https://ficheros.proteccioncivil.es/unidadesFormativas/Plan_Familiar_Emergencias_Creacion_propia_UnidadPsicologiaDGPCYE.pdf"
+  ],
+  "notas": "productos_candidatos vacío: Amazon.es bloquea la consulta automática (HTTP 503); no se añaden modelos sin verificar."
+ }
+]
